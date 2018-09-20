@@ -1,0 +1,21 @@
+{
+    "name": "allexgreen/yii2-templist",
+    "description": "Teperature Sheet",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Green",
+            "email": "allexg11192@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "allexgreen\\templist\\": ""
+        }
+    }
+}
